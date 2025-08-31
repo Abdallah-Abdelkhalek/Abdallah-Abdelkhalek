@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: between; align-items: center;">
+<div align="center">
    <div>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=abdallah-abdelkhalek.abdallah-abdelkhalek&" />
   </div>
