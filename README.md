@@ -1,17 +1,16 @@
-<div align="center">
-   <div>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=abdallah-abdelkhalek.abdallah-abdelkhalek&" />
-  </div>
-  <div style="margin-inline: auto;">
-    <a href="https://www.linkedin.com/in/abdallah-abdelkhalek/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-    </a>
-    <a href="mailto:Abdallah.abdelkhalek98@gmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-    </a>
-  </div>
-  <span><img src="./wave.gif" width="30"/></span>
-</div>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdallah-abdelkhalek.abdallah-abdelkhalek" alt="visitor badge" />
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abdallah-abdelkhalek/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
+  </a>
+  
+  <a href="mailto:Abdallah.abdelkhalek98@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="./wave.gif" width="30" alt="wave" />
+</p>
 
 ###
 
